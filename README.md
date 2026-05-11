@@ -51,14 +51,14 @@ This project focuses on embedded systems, hardware/software integration, and pro
 ---
 ## Current Progress
 
-# Stage 1 - Camera Foundation
+### Stage 1 - Camera Foundation
 - Installed MicroPython firmware
 - Connected ESP32-WROVER
 - Uploaded camera libraries
 - Started camera web server
 - Tested browser video stream
 
-# Upcoming Stages 
+### Upcoming Stages 
 - Add TFT preview display
 - Add physical shutter button
 - Save photos to SD card
